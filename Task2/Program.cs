@@ -3,7 +3,7 @@
 //44 5 78 -> 78
 //22 3 9 -> 22
 
-Console.WriteLine("Введите по порядку 3 любых числа : ");
+Console.WriteLine("Введите по очереди 3 любых числа : ");
 int number1 = int.Parse(Console.ReadLine());
 int number2 = int.Parse(Console.ReadLine());
 int number3 = int.Parse(Console.ReadLine());
